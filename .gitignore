@@ -1,0 +1,45 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MLflow
+mlruns/
+
+# DVC
+.dvc/cache/
+
+# Data files (optional)
+artifacts/
+model.pkl
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
